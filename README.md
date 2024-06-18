@@ -1,3 +1,4 @@
+
 # Taiko Blazer Script
 
 Script ini dirancang untuk melakukan berbagai transaksi pada jaringan Taiko dengan menggunakan beberapa dompet. Script ini mendukung beberapa mode operasi, termasuk berinteraksi dengan bridge, melakukan transaksi acak, deposit native, mengirim pesan, inisialisasi kontrak, dan memproses pesan.
@@ -23,7 +24,7 @@ python run.py
 Masukkan Password
 
 Anda akan diminta untuk memasukkan password. Gunakan password Winsnip untuk mengakses script.
-
+ 
 ## Pilih Mode Operasi
 
 Anda akan disajikan dengan menu pilihan mode operasi. Pilih mode yang diinginkan dengan memasukkan angka yang sesuai:
@@ -39,6 +40,8 @@ Anda akan disajikan dengan menu pilihan mode operasi. Pilih mode yang diinginkan
 -            7. Random                                     -
 ------------------------------------------------------------
 ## Pilih mode (1 - 7):
+```
+
 Masukkan Jumlah Wallet
 
 Masukkan jumlah wallet yang ingin Anda gunakan:
@@ -66,11 +69,10 @@ Masukkan Rentang Delay
 
 ## Masukkan rentang waktu delay antara transaksi (contoh: 20-60 detik):
 
+Masukkan rentang delay (contoh: 20-60):
 
-## Masukkan rentang delay (contoh: 20-60):
-Masukkan Nilai Gwei
-
-## Masukkan nilai gwei untuk transaksi (contoh: 0.1):
+## Masukkan Nilai Gwei
+Masukkan nilai gwei untuk transaksi (contoh: 0.1):
 
 
 Masukkan nilai gwei untuk transaksi (contoh: 0.1):
@@ -100,4 +102,3 @@ Random
 Melakukan tindakan acak dari mode di atas.
 Catatan
 Pastikan Anda memiliki cukup saldo ETH pada setiap wallet yang digunakan untuk menutupi biaya transaksi (gas fee).
-"""

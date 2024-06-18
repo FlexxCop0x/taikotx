@@ -33,7 +33,7 @@ Anda akan disajikan dengan menu pilihan mode operasi. Pilih mode yang diinginkan
 
 ------------------------------------------------------------
 -                 Push Point Taiko Blazer                  -
--               GAS fee CUSTOM - Multi Akun                -
+-                        Multi Akun                        -
 ------------------------------------------------------------
 -                     Pilih Mode Operasi                   -
 -            1. Interact Bridge       2. Random Tx         -

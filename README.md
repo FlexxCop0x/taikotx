@@ -11,11 +11,13 @@ Pastikan Anda telah menginstal paket-paket berikut sebelum menjalankan script:
 - `eth_account`
 
 Anda dapat menginstal paket-paket ini menggunakan `pip`:
-
+password silahkan lihat di [Group](https://t.me/winsnip)
 ```bash
 pip install web3 eth_account
 Cara Menggunakan
 Jalankan Script
+
+
 
 ## Jalankan script Python menggunakan perintah berikut:
 
